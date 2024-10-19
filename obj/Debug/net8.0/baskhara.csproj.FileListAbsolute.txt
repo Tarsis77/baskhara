@@ -1,0 +1,14 @@
+C:\Users\user\baskhara\bin\Debug\net8.0\baskhara.exe
+C:\Users\user\baskhara\bin\Debug\net8.0\baskhara.deps.json
+C:\Users\user\baskhara\bin\Debug\net8.0\baskhara.runtimeconfig.json
+C:\Users\user\baskhara\bin\Debug\net8.0\baskhara.dll
+C:\Users\user\baskhara\bin\Debug\net8.0\baskhara.pdb
+C:\Users\user\baskhara\obj\Debug\net8.0\baskhara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\baskhara\obj\Debug\net8.0\baskhara.AssemblyInfoInputs.cache
+C:\Users\user\baskhara\obj\Debug\net8.0\baskhara.AssemblyInfo.cs
+C:\Users\user\baskhara\obj\Debug\net8.0\baskhara.csproj.CoreCompileInputs.cache
+C:\Users\user\baskhara\obj\Debug\net8.0\baskhara.dll
+C:\Users\user\baskhara\obj\Debug\net8.0\refint\baskhara.dll
+C:\Users\user\baskhara\obj\Debug\net8.0\baskhara.pdb
+C:\Users\user\baskhara\obj\Debug\net8.0\baskhara.genruntimeconfig.cache
+C:\Users\user\baskhara\obj\Debug\net8.0\ref\baskhara.dll
